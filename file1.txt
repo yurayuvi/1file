@@ -1,4 +1,4 @@
 welcome devops
 complete stash
 next task
-added to line stash pratical 
+added to line stash pratical
